@@ -1,4 +1,4 @@
-# py-Sat
+# py-SDRs
 Software Defined Radio, Satellite Communication Systems Calculations and Algorithms.
 
 [REFERENCES]: 
