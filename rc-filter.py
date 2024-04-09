@@ -17,7 +17,7 @@ t = np.linspace(-N/2, N/2, N) * T
 # Create the filter
 def rc_filt(num_taps, beta, sampling_rate, symbol_rate):
     """
-    Generate a Raised Cosine (RC) filter.
+    Raised Cosine (RC) filter.
 
     Parameters:
     num_taps (int): Number of filter taps.
